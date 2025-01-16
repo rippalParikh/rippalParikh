@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rippalParikh
-- 👀 I’m interested in ... SQL , Python ,Datalakes ,
+- 👀 I’m interested in ... SQL , Python ,Datalakes , AI/ML 
 - 🌱 I’m currently learning ... AI
 - 💞️ I’m looking to collaborate on ... data analytics project
 - 📫 How to reach me ... ripal_parikh17@yahoo.com  
